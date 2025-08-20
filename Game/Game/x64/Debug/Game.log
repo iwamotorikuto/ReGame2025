@@ -1,0 +1,5 @@
+﻿  Player.cpp
+C:\Users\01254003\Desktop\ReGame\Game\Player.cpp(134,71): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+  (ソース ファイル '/Player.cpp' をコンパイルしています)
+  
+  Game.vcxproj -> C:\Users\01254003\Desktop\ReGame\Game\x64\Debug\Game.exe
